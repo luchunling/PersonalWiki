@@ -10,7 +10,7 @@ The first step is to install a compiling tool:
 npm i -g typescript
 ```
 
-And then, creating a new file written with TypeScript:
+And then, create a new file written with TypeScript:
 
 ```ts
 /** hello.ts */
@@ -21,7 +21,7 @@ function hello(name) {
 console.log(hello('aleen'));
 ```
 
-Compiling it and run it:
+Compile it and run it:
 
 ```bash
 tsc hello.ts && node hello.js
