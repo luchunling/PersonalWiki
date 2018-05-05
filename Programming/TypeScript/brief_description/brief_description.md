@@ -92,7 +92,7 @@ class Student {
 }
 ```
 
-In addition, the use of `public` on arguments to the constructor is can be a shorthand that allows us to automatically create properties with the name:
+In addition, the use of `public` on arguments to the constructor is a shorthand that allows us to automatically create properties with the name:
 
 ```ts
 class Student {
