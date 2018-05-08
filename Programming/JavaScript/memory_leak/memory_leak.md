@@ -198,7 +198,7 @@ function foo() {
 }
 ```
 
-More worse:
+Worse situation:
 
 ```js
 function foo() {
